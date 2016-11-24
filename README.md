@@ -24,6 +24,16 @@ Another option is to use the Caps Lock key as an extra Ctrl key.  This works wel
 
 After you open the laptop when it's been sleeping, you will find that your WiFi won't activate.  I [read a little bit about this problem](http://askubuntu.com/questions/452826/wireless-networking-not-working-after-resume-in-ubuntu-14-04), and then it went away when I tried to reproduce it.
 
+### Disable NMI watchdog
+
+The comprehensive [ArchLinux Wiki page on power saving](https://wiki.archlinux.org/index.php/Power_management#Power_saving) has a lot of great tips for saving power on laptops.  Here's what I did:
+
+* [disable the NMI watchdog](https://wiki.archlinux.org/index.php/Power_management#Disabling_NMI_watchdog)
+* [turn on audio power save](https://wiki.archlinux.org/index.php/Power_management#Audio)
+* [increased the virtual memory writeback time](https://wiki.archlinux.org/index.php/Power_management#Writeback_Time)
+* [turn on laptop mode](https://wiki.archlinux.org/index.php/Power_management#Laptop_Mode) -- this can cause you to lose data up to 10 minutes of data if you turn off the laptop prematurely
+* [disabled wake-on-lan](https://wiki.archlinux.org/index.php/Power_management#Network_interfaces)
+
 # Software
 
 ## Packages
