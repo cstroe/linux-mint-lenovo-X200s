@@ -1,6 +1,6 @@
 # Linux Mint 18 on a Lenovo X200s
 
-This is my cronicle of what I had to do to make X200s usable with a fresh install of Linux Mint 18.  The X200s is an early ThinkPad ultrabook.  It used to be top of the line in 2012, but now you can get very good refurbished deals.  It's a very capable laptop for general programming tasks, and I love the classic ThinkPad durability and look-and-feel.
+This is my cronicle of what I had to do to make X200s usable with a fresh install of Linux Mint 18.  The X200s is a [ThinkPad ultrabook from 2012](http://shop.lenovo.com/us/en/laptops/thinkpad/x-series/x200s/).  It used to be top of the line in 2012, but now you can get very good refurbished deals.  It's a very capable laptop for general programming tasks, and I love the classic ThinkPad durability and look-and-feel.
 
 # Hardware
 
