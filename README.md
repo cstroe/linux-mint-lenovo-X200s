@@ -8,7 +8,7 @@ This is my cronicle of what I had to do to make X200s usable with a fresh instal
 
 With a fresh Linux Mint installation, the laptop won't sleep when you close the lid.  It turns out that this is a setting in Power Management. You must set "Perform lid-closed action even with external monitors attached" to ON.
 
-![Lid closed action even with external monitors attached](powermanagement.png)
+![Lid closed action even with external monitors attached](https://raw.githubusercontent.com/cstroe/linux-mint-lenovo-X200s/master/power-management.png)
 
 ## Use Caps Lock as Ctrl
 
@@ -18,7 +18,7 @@ Unfortunately, the Fn key cannot be swapped via software, it must be a BIOS sett
 
 Another option is to use the Caps Lock key as an extra Ctrl key.  This works well for my purposes and avoids having to flash a custom BIOS.  From the Keyboard settings, go to Layout and selectoin Options.  There you can select the Caps Lock behavior as Ctrl.
 
-![Caps as Ctrl](caps-lock-as-ctrl.png)
+![Caps as Ctrl](https://raw.githubusercontent.com/cstroe/linux-mint-lenovo-X200s/master/caps-lock-as-ctrl.png)
 
 ## WiFi not working after coming back from sleep
 
