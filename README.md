@@ -31,6 +31,7 @@ After you open the laptop when it's been sleeping, you will find that your WiFi 
     sudo apt-get install git
     git config --global user.email "you@example.com"
     git config --global user.name "Your Name"
+    git config --global push.default simple
 
     sudo apt-get install vim
 
